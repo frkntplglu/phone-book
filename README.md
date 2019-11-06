@@ -9,8 +9,8 @@ It is the Phone Book with adding and filtering
 # install dependencies
 $ npm install 
 
-# run with hot reload at localhost:8080
-$ npm run dev
+# run with hot reload at localhost:3000
+$ npm start
 
 # build for production
 $ npm run build
